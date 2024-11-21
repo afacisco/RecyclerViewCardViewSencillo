@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView/CardView Sencillo</string>
+    <string name="toast_text">Click en el CardView: %1$s</string>
+</resources>
